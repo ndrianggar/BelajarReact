@@ -1,0 +1,11 @@
+.ParentBox{
+  margin-top: 20px;
+  width: 80%;
+  overflow: hidden;
+  margin: auto;
+  background-color: cornflowerblue;
+}
+
+#timer{
+  text-align: center;
+}
